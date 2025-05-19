@@ -22,15 +22,15 @@
    - Make predictions on custom medical abstracts
 
 ## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/2_ _SkimLit_Natural_Language_Processing/notebook.ipynb)
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/2_SkimLit_Natural_Language_Processing/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to classify medical abstract sentences into their respective classes
 
 ## Data:
-- The dataset is downloaded from [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101) and [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/overview) and contains information about food images, including features such as class labels and image data.
+- The dataset is downloaded from [PubMed 200k RCT dataset](https://github.com/Franck-Dernoncourt/pubmed-rct), and contains information about medical abstracts, including features such as class labels and text data.
 
 ## Outcomes:
-- A trained model capable of classifying food images into 101 different classes
-- High accuracy in classifying food images, with a focus on precision, recall, and f1 scores
+- A trained model capable of classifying medical abstract sentences into their respective classes
+- High accuracy in classifying medical abstract sentences, with precision, recall, and f1 scores
 - A confusion matrix to visualize the model's performance
 <br><br>
 

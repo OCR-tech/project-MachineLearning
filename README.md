@@ -13,10 +13,10 @@ This project focuses on building a machine learning model to classify medical ab
 This project focuses on building a machine learning model to predict future values in a time series dataset. The goal is to forecast the price of a specific asset based on historical data. The project utilizes recurrent neural networks (RNNs) and long short-term memory (LSTM) networks to capture temporal dependencies in the data. The project includes steps such as data pre-processing, feature engineering, model training, and evaluation. The model is trained on a dataset of historical price data and aims to achieve high accuracy in forecasting future prices.
 
 ## [Module 1: Pre-Trained ImageNet Models in TensorFlow and Keras](M1_Pretrained_ImageNet_Models/README.md)
-This module provides an overview of pre-trained ImageNet models in TensorFlow and Keras. It covers the use of a pretrained model for image classification tasks, including the steps involved in loading a pre-trained model, preprocessing input images, making predictions, and decoding the results.
+This module provides an overview of pre-trained ImageNet models in TensorFlow and Keras. It covers the use of a pretrained model for image classification tasks, including loading a pre-trained model, preprocessing input images, making predictions, and decoding the results.
 
 ## [Module 2: Image Classification using Feedforward Networks in Keras](M2_Image_Classification_using_Feedforward_Networks/README.md)
-This module focuses on using feedforward multilayer networks for hand-written digit classification tasks in Keras. It covers the steps involved including data pre-processing, model architecture inference, evaluating its performance, and making predictions.
+This module focuses on using feedforward multilayer networks for hand-written digit classification tasks in Keras. It covers the steps in data pre-processing, model architecture inference, evaluating its performance, and making predictions.
 
 ## [Module 3: Traffic Sign Recognition using Transfer Learning and Fine Tuning](M3_Traffic_Sign_Recognition_using_Transfer_Learning_and_Fine_Tuning/README.md)
-This module presents a traffic sign image classification using transfer learning and fine-tuning techniques with TensorFlow and Keras. The module covers the steps involved in data pre-processing, model inference, freezing and compiling the model, evaluating its performance, and making predictions on test dataset.
+This module presents a traffic sign image classification using transfer learning and fine-tuning techniques with TensorFlow and Keras. The module covers the steps in data pre-processing, model inference, freezing and compiling the model, evaluating its performance, and making predictions on test dataset.

@@ -22,11 +22,11 @@
    - Make predictions for the Bitcoin price on test dataset
 
 ## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/3_BitPredict_Time_Series_Forecasting/notebook.ipynb)
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/3_BitPredict_Time_Series_Forecasting/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to predict the Bitcoin price on test dataset
 
 ## Data:
-- The dataset is downloaded from [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101) and [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/overview) and contains information about food images, including features such as class labels and image data.
+- The dataset is downloaded from [Coindesk](https://www.coindesk.com/price/bitcoin), and contains information about the historical price of Bitcoin, including features such as date, open, high, low, close, volume, and market cap.
 
 ## Outcomes:
 - A trained model capable of predicting the price of Bitcoin based on historical data
