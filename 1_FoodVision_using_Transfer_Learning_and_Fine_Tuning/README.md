@@ -39,6 +39,6 @@
 <!-- - Insights into the most common misclassifications and the model's performance on different food classes -->
 <br><br>
 
-<p align="center" style="text-decoration: underline;">Prediction the Food with prediction probabilities</p>
+<p align="center"><b>Prediction the Food with prediction probabilities</b></p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml1a.png)
