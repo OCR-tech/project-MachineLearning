@@ -3,7 +3,7 @@
 ## Overview
 This repository contains three machine learning projects that demonstrate the application of machine learning techniques to solve real-world problems. Each project includes a detailed description, objectives, data sources, steps taken, and outcomes achieved.
 
-## [Project 1: Food Vision: Transfer Learning and Fine Tuning](1_Food_Vision_using_Transfer_Learning_and_Fine_Tuning/README.md)
+## [Project 1: Food Vision: Transfer Learning and Fine Tuning](1_FoodVision_using_Transfer_Learning_and_Fine_Tuning/README.md)
 This project demonstrates a machine learning application for classifying food images using transfer learning and fine-tuning techniques with TensorFlow. The project aims to achieve high accuracy in classifying food images into 101 different classes, utilizing a large dataset of over 75,000 images from the Food101 dataset. The project focuses on building a robust model that can accurately classify food images into their respective categories, with a particular emphasis on precision, recall, and f1 scores.
 
 ## [Project 2: SkimLit: Natural Language Processing](2_SkimLit_Natural_Language_Processing/README.md)
