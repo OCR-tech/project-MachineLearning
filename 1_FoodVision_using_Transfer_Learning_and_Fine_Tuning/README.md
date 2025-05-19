@@ -42,3 +42,4 @@
 <p align="center"><b>Prediction the Food with prediction probabilities</b></p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml1a.png)
+<br>
