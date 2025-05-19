@@ -17,8 +17,9 @@
 ## Outcomes:
 - The model can be used to classify images and provide class labels and confidence scores for each predicted object
 <br><br>
-
 <p align="center"><b>Predicted objects with class labels and confidences</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml1a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml1a.png"/>
+</div>
+<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml1a.png) -->
 <br>

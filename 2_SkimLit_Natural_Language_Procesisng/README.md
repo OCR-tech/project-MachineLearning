@@ -35,6 +35,8 @@
 <br><br>
 
 <p align="center"><b>Prediction the medical abstract with labels</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml2a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml2a.png"/>
+</div>
+<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml2a.png) -->
 <br>

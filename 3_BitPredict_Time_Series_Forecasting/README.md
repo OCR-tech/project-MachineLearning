@@ -35,6 +35,8 @@
 <br><br>
 
 <p align="center"><b>Future price prediction of Bitcoin for next 14 days</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml3a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml3a.png"/>
+</div>
+<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml3a.png) -->
 <br>
