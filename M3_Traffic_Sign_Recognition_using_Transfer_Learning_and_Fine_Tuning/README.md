@@ -25,5 +25,6 @@
 <br><br>
 
 <p align="center"><b>Prediction the traffic signs on test dataset</b></p>
+
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml3a.png)
 <br>

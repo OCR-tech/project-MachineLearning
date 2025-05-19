@@ -18,8 +18,13 @@
 <br><br>
 
 <p align="center"><b>Hand-written digits for training datasets</b></p>
+
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml2a.png)
 <br>
+
 <p align="center"><b>Confusion matrix showing ground truth and predicted labels</b></p>
+
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml2b.png)
 <br>
+
+
