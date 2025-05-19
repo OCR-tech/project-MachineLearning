@@ -14,15 +14,11 @@
     - Decode the predictions to find the class name and confidence scores
 3. Display the results
 
-## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/OCR-tech/blob/main/M1_Pretrained_ImageNet_Models/Module_1_Pretrained_ImageNet_Models.ipynb)
-- Use the pre-trained model to classify images
-
 ## Outcomes:
 - The model can be used to classify images and provide class labels and confidence scores for each predicted object
 <br><br>
 
-<p align="center" style="text-decoration: underline;">Predicted objects with class labels and confidences</p>
+<p align="center"><b>Predicted objects with class labels and confidences</b></p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml1a.png)
 <br>
