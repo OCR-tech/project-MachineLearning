@@ -1,4 +1,4 @@
-# Module 2: Image Classification using Feedforward Networks in Keras
+# Module 2: Image Classification: Feedforward Networks in Keras
 
 ## Objectives:
 - To classify hand-written digits using feed-forward multilayer network architecture for multinomial classification

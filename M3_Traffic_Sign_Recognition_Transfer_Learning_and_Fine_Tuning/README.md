@@ -1,4 +1,4 @@
-# Module 3: Traffic Sign Recognition using Transfer Learning and Fine Tuning
+# Module 3: Traffic Sign Recognition: Transfer Learning and Fine Tuning
 
 ## Objectives:
 - To classify traffic sign images using fine-tuning pre-trained VGG-16 architecture model in TensorFlow and Keras
