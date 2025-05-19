@@ -36,7 +36,6 @@
 - A trained model capable of classifying food images into 101 different classes
 - High accuracy in classifying food images, with a focus on precision, recall, and f1 scores
 - A confusion matrix to visualize the model's performance
-<!-- - Insights into the most common misclassifications and the model's performance on different food classes -->
 <br><br>
 
 <p align="center"><b>Prediction the Food with prediction probabilities</b></p>
