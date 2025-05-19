@@ -42,5 +42,4 @@
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml1a.png"/>
 </div>
-<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_ml1a.png) -->
 <br>

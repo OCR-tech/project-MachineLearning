@@ -21,14 +21,12 @@
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml2a.png"/>
 </div>
-<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml2a.png) -->
 <br><br>
 
 <p align="center"><b>Confusion matrix showing ground truth and predicted labels</b></p>
 <div align="center">
   <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml2b.png"/>
 </div>
-<!-- ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_ml2b.png) -->
 <br>
 
 
