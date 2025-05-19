@@ -12,6 +12,8 @@ This project focuses on building a machine learning model to classify medical ab
 ## [Project 3: BitPredict: Time-Series Forecasting with TensorFlow](3_BitPredict_Time_Series_Forecasting_with_TensorFlow/README.md)
 This project focuses on building a machine learning model to predict future values in a time series dataset. The goal is to forecast the price of a specific asset based on historical data. The project utilizes recurrent neural networks (RNNs) and long short-term memory (LSTM) networks to capture temporal dependencies in the data. The project includes steps such as data pre-processing, feature engineering, model training, and evaluation. The model is trained on a dataset of historical price data and aims to achieve high accuracy in forecasting future prices.
 
+<br>
+
 ## [Module 1: Pre-Trained ImageNet Models in TensorFlow and Keras](M1_Pretrained_ImageNet_Models/README.md)
 This module provides an overview of pre-trained ImageNet models in TensorFlow and Keras. It covers the use of a pretrained model for image classification tasks, including loading a pre-trained model, preprocessing input images, making predictions, and decoding the results.
 
