@@ -1,4 +1,4 @@
-# Module 1: Pre-Trained ImageNet Models in TensorFlow and Keras
+# Module 1: Pre-Trained ImageNet Models: TensorFlow and Keras
 
 ## Objectives:
 - To classify images using a pre-trained ImageNet model

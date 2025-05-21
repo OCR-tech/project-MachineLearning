@@ -30,7 +30,7 @@
 <!-- - Save the trained model for future use -->
 
 ## Data:
-- The dataset is downloaded from [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101) and [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/overview), and contains information about food images, including features such as class labels and image data.
+- The dataset is downloaded from [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101) or [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/overview), and contains information about food images, including features such as class labels and image data.
 
 ## Outcomes:
 - A trained model capable of classifying food images into 101 different classes

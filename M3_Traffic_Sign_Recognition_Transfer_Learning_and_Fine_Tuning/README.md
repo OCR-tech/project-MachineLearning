@@ -21,7 +21,6 @@
 
 ## Outcomes:
 - The model can be used to classify traffic sign images
-- A confusion matrix to visualize the model's performance
 <br><br>
 
 <p align="center"><b>Prediction the traffic signs on test dataset</b></p>
