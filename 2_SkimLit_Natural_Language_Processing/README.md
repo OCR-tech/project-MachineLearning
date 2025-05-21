@@ -22,7 +22,7 @@
    - Make predictions on custom medical abstracts
 
 ## Usages:
-- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/2_SkimLit_Natural_Language_Processing/notebook.ipynb) in Colab and run the code cells
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/2_SkimLit_Natural_Language_Processing/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to classify medical abstract sentences into their respective classes
 
 ## Data:

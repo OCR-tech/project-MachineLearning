@@ -25,7 +25,7 @@
    - Make predictions on custom food images with prediction probabilities
 
 ## Usages:
-- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-DataScience/blob/main/1_FoodVision_Transfer_Learning_and_Fine_Tuning/notebook.ipynb) in Colab and run the code cells
+- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/1_FoodVision_Transfer_Learning_and_Fine_Tuning/notebook.ipynb) in Colab and run the code cells
 - Use the trained model to classify food images into their respective categories
 <!-- - Save the trained model for future use -->
 
@@ -34,7 +34,6 @@
 
 ## Outcomes:
 - A trained model capable of classifying food images into 101 different classes
-- High accuracy in classifying food images, with a focus on precision, recall, and f1 scores
 - A confusion matrix to visualize the model's performance
 <br><br>
 
