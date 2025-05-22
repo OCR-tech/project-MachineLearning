@@ -25,9 +25,9 @@
    - Make predictions on custom food images with prediction probabilities
 
 ## Usages:
-- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/1_FoodVision_Transfer_Learning_and_Fine_Tuning/notebook.ipynb) in Colab and run the code cells
+<!-- - Open [notebook](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/1_FoodVision_Transfer_Learning_and_Fine_Tuning/notebook.ipynb) in Colab and run the code cells -->
+- Open notebook in Colab and run the code cells
 - Use the trained model to classify food images into their respective categories
-<!-- - Save the trained model for future use -->
 
 ## Data:
 - The dataset is downloaded from [Food-101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101) or [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/overview), and contains information about food images, including features such as class labels and image data.

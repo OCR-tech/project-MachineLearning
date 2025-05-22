@@ -22,7 +22,8 @@
 12. Compare models
 
 ## Usages:
-- Open [notebook](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/3_BitPredict_Time_Series_Forecasting/notebook.ipynb) in Colab and run the code cells
+<!-- - Open [notebook](https://colab.research.google.com/github/OCR-tech/project-MachineLearning/blob/main/3_BitPredict_Time_Series_Forecasting/notebook.ipynb) in Colab and run the code cells -->
+- Open notebook in Colab and run the code cells
 - Use the trained model to predict the Bitcoin price on test dataset
 
 ## Data:
