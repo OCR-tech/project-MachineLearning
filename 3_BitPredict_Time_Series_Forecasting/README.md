@@ -17,7 +17,7 @@
 3. Training a model
    - Train the model using trained dataset
 4. Model Evaluation
-   - Make predictions on validation data using a trained model
+   - Make predictions on validation data
 5. Deployment
    - Make predictions for the Bitcoin price on test dataset
 
