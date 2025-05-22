@@ -26,7 +26,8 @@
 - Use the trained model to predict the Bitcoin price on test dataset
 
 ## Data:
-- The dataset is downloaded from [file](BTC_USD_2013-10-01_2021-05-18-CoinDesk.csv) and contains information about the historical price of Bitcoin, including features such as date, open, high, low, close, volume, and market cap. For details, please refer to [Coindesk](https://www.coindesk.com/price/bitcoin).
+- The dataset is downloaded from [file](BTC_USD_2013-10-01_2021-05-18-CoinDesk.csv), and contains information about the historical price of Bitcoin, including features such as date, open, high, low, close, volume, and market cap.
+- Please refer to [Coindesk](https://www.coindesk.com/price/bitcoin) for more details.
 
 ## Outcomes:
 - A trained model capable of predicting the price of Bitcoin based on historical data
